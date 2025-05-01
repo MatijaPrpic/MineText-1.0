@@ -1,0 +1,40 @@
+C:\Users\Matija Prpić\source\repos\MineText\MineText\obj\Debug\MineText.csproj.AssemblyReference.cache
+C:\Users\Matija Prpić\source\repos\MineText\MineText\obj\Debug\MineText.csproj.CoreCompileInputs.cache
+C:\Users\Matija Prpić\source\repos\MineText\MineText\bin\Debug\MineText.exe.config
+C:\Users\Matija Prpić\source\repos\MineText\MineText\bin\Debug\MineText.exe
+C:\Users\Matija Prpić\source\repos\MineText\MineText\bin\Debug\MineText.pdb
+C:\Users\Matija Prpić\source\repos\MineText\MineText\obj\Debug\MineText.exe
+C:\Users\Matija Prpić\source\repos\MineText\MineText\obj\Debug\MineText.pdb
+E:\MineText\MineText\bin\Debug\MineText.exe.config
+E:\MineText\MineText\bin\Debug\MineText.exe
+E:\MineText\MineText\bin\Debug\MineText.pdb
+E:\MineText\MineText\obj\Debug\MineText.csproj.AssemblyReference.cache
+E:\MineText\MineText\obj\Debug\MineText.csproj.CoreCompileInputs.cache
+E:\MineText\MineText\obj\Debug\MineText.exe
+E:\MineText\MineText\obj\Debug\MineText.pdb
+D:\MineText\MineText\bin\Debug\MineText.exe.config
+D:\MineText\MineText\bin\Debug\MineText.exe
+D:\MineText\MineText\bin\Debug\MineText.pdb
+D:\MineText\MineText\obj\Debug\MineText.csproj.AssemblyReference.cache
+D:\MineText\MineText\obj\Debug\MineText.csproj.CoreCompileInputs.cache
+D:\MineText\MineText\obj\Debug\MineText.exe
+D:\MineText\MineText\obj\Debug\MineText.pdb
+D:\MineText\MineText\bin\Debug\EntityFramework.SqlServer.dll
+D:\MineText\MineText\bin\Debug\EntityFramework.dll
+D:\MineText\MineText\bin\Debug\System.Data.SQLite.dll
+D:\MineText\MineText\bin\Debug\System.Data.SQLite.EF6.dll
+D:\MineText\MineText\bin\Debug\System.Data.SQLite.Linq.dll
+D:\MineText\MineText\obj\Debug\MineText.csproj.Up2Date
+D:\MineText\MineText\bin\Debug\Newtonsoft.Json.dll
+D:\MineText\MineText\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MineText\MineText\bin\Debug\System.Buffers.dll
+D:\MineText\MineText\bin\Debug\System.IO.Pipelines.dll
+D:\MineText\MineText\bin\Debug\System.Memory.dll
+D:\MineText\MineText\bin\Debug\System.Numerics.Vectors.dll
+D:\MineText\MineText\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MineText\MineText\bin\Debug\System.Text.Encodings.Web.dll
+D:\MineText\MineText\bin\Debug\System.Text.Json.dll
+D:\MineText\MineText\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MineText\MineText\bin\Debug\System.ValueTuple.dll
+D:\MineText\MineText\obj\Debug\MineText.csproj.SuggestedBindingRedirects.cache
+D:\MineText\MineText\obj\Debug\MineText.exe.config
